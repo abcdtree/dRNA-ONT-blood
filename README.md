@@ -3,16 +3,29 @@ data storage and share for paper -- Direct RNA sequencing on Nanopore uncovers f
 
 ## count_matrix folder:
 1. htseq count folders
+   
 	a. Illumina_HTSeq_count
+
 	b. Nanopore_HTSeq_count
-2. kallisto transcript count
+
+3. kallisto transcript count
+   
 	kallisto_transcript_count.csv
-3. NanoCount Counts
+
+5. NanoCount Counts
+   
 	a. NanoCount_count.csv
+
 	b. NanoCount_gene_count.csv
-4. Bambu Quantification
+
+7. Bambu Quantification
+   
 	a. bambu_gene_count.csv
+
 	b. bambu_transcript_count.csv
-5. Isoquant Quantification
+
+9. Isoquant Quantification
+    
 	a. isoquant.gene_counts.csv
+
 	b. isoquant.transcript_counts.csv

@@ -29,3 +29,7 @@ data storage and share for paper -- Direct RNA sequencing on Nanopore uncovers f
 	a. isoquant.gene_counts.csv
 
 	b. isoquant.transcript_counts.csv
+
+## polyA-stats-ont folder
+polyA length stats for all ONT sequence samples, three columns in the stats files are `reads id`, `reads length` and `estimate polyA length`.
+
